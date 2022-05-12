@@ -1,0 +1,27 @@
+/*!************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[4].use[0]!./src/Layout.vue?vue&type=style&index=0&id=64778763&scoped=true&lang=css ***!
+  \************************************************************************************************************************************************************************************************************************************************/
+
+img[data-v-64778763] {
+  width: 200px;
+}
+h1[data-v-64778763] {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.remote-component[data-v-64778763] {
+  border: 1px solid blue;
+  padding: 10px;
+}
+.layout-app[data-v-64778763] {
+  border: 1px solid green;
+  padding: 10px;
+}
+.app-label[data-v-64778763] {
+  padding: 5px 2px;
+  font-style: italic;
+  font-size: 20px;
+  color: gray;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
